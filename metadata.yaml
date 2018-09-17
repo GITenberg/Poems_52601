@@ -1,0 +1,40 @@
+_repo: Poems_52601
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Smith, C. Ernest (Charles Ernest)
+    alias: Smith, Charles Ernest
+    birthdate: 1855
+    deathdate: 1939
+    gutenberg_agent_id: '46952'
+    url: http://www.gutenberg.org/2009/agents/46952
+creator:
+  author:
+    agent_name: Clare, John
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '2843'
+    url: http://www.gutenberg.org/2009/agents/2843
+    wikipedia: http://en.wikipedia.org/wiki/John_Clare
+  editor:
+    agent_name: Gale, Norman
+    alias: Gale, Norman R. (Norman Rowland)
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '4877'
+    url: http://www.gutenberg.org/2009/agents/4877
+description: ''
+gutenberg_issued: '2016-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/52601
